@@ -4,8 +4,10 @@
 <a href="https://huggingface.co/datasets/quanhaol/MagicData"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 
 Wan2.2-TI2V-5B-Turbo is designed for efficient step distillation and CFG distillation based on <a href="https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B"><b>Wan2.2-TI2V-5B</b></a>. 
-Leveraging the Self-Forcing framework, it enables 4-step TI2V-5B model training. 
-**Our model can generate 121-frame videos at 24 FPS with a resolution of 1280×704 in just 4 steps, eliminating the need for the CFG trick.**
+
+Leveraging the Self-Forcing framework, it enables 4-step TI2V-5B model training. **Our model can generate 121-frame videos at 24 FPS with a resolution of 1280×704 in just 4 steps, eliminating the need for the CFG trick.**
+
+To the best of our knowledge, Wan2.2-TI2V-5B-Turbo is the **first** open-source repository of the distilled I2V version of Wan2.2-TI2V-5B.
 
 ## 🔥Video Demos
 The videos below can be reproduced using [examples/example.csv](examples/example.csv).
@@ -81,7 +83,7 @@ Special thanks to the contributors of these libraries for their hard work and de
 
 If you have any suggestions or find our work helpful, feel free to contact us
 
-Email: liqh24@m.fudan.edu.cn or zhenxingfd@gmail.com
+Email: liqh24@m.fudan.edu.cn or zhenxingfd@gmail.com or ruiwang16@fudan.edu.cn
 
 If you find our work useful, <b>please consider giving a star to this github repository and citing it</b>:
 
