@@ -60,7 +60,7 @@ HF_HUB_ENABLE_HF_TRANSFER=1 huggingface-cli download Wan-AI/Wan2.2-TI2V-5B --loc
 ```bash
 bash running_scripts/train/Wan2.2/dmd.sh
 ```
-Our training run uses 4000 iterations and completes in under 2 days using 16 H100 GPUs.
+Our training run uses 4000 iterations and completes in under 2 days using 16 A100 GPUs.
 
 ### Fewstep Inference
 ```bash
