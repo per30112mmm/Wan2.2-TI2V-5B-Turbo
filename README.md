@@ -35,7 +35,7 @@ The videos below can be reproduced using [examples/example.csv](examples/example
 </table>
 
 ## 📣 Updates
-- `2025/08/26` 🔥Wan2.2-TI2V-5B-Turbo has been released [`here`](https://huggingface.co/quanhaol/Wan2.2-TI2V-5B-Turbo).
+- `2025/08/06` 🔥Wan2.2-TI2V-5B-Turbo has been released [`here`](https://huggingface.co/quanhaol/Wan2.2-TI2V-5B-Turbo).
 
 ## 🐍 Installation
 Create a conda environment and install dependencies:
