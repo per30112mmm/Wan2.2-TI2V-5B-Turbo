@@ -83,7 +83,7 @@ Special thanks to the contributors of these libraries for their hard work and de
 
 If you have any suggestions or find our work helpful, feel free to contact us
 
-Email: liqh24@m.fudan.edu.cn or zhenxingfd@gmail.com or ruiwang16@fudan.edu.cn
+Email: liqh24@m.fudan.edu.cn or zhenxingfd@gmail.com or wangrui21@m.fudan.edu.cn
 
 If you find our work useful, <b>please consider giving a star to this github repository and citing it</b>:
 
